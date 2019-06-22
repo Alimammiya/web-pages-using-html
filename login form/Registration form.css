@@ -1,0 +1,87 @@
+body {
+	background-image: url(58cbbbd4b20e4_1024.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 900px;
+
+}
+.simple-form {
+	text-align: center;
+	margin: 100px 400px;
+}
+#registration {
+	width: 100%;
+	background-color: #051019;
+	opacity: 0.8;
+	padding: 50px 0px;
+}
+#button {
+	width: 250px;
+	padding: 5px;
+	border-radius: 5px;
+	outline: 0px;
+}
+#ph {
+	width: 55px;
+	padding: 5px;
+	border-radius: 5px;
+	outline: 0px;
+}
+#Phone{
+	width: 195px;
+	padding: 5px;
+	border-radius: 5px;
+	outline: 0px;
+}
+
+#but {
+	color: white;
+	font-size: 18px;
+}
+#butt {
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+	outline: 0px;
+	background-color: #0c6996;
+	border: 2px solid #01010c;
+	color: aliceblue;
+	font-size: 18px;
+
+}
+#ar {
+	color: yellow;
+}
+#ali {
+	margin: 0px 0px 0px -180px;
+	color: mediumseagreen;
+}
+#aaa {
+	margin: 0px 0px 0px -185px;
+	color: mediumseagreen;
+}
+#al {
+	margin: 0px 0px 0px -100px;
+	color: mediumseagreen;
+}
+#a {
+	margin: 0px 0px 0px -70px;
+	color: mediumseagreen;
+}
+#alim {
+	margin: 0px 0px 0px -120px;
+	color: mediumseagreen;
+}
+#alm {
+	margin: 0px 0px 0px -55px;
+	color: mediumseagreen;
+}
+#alma {
+	margin: 0px 0px 0px -110px;
+	color: mediumseagreen;
+
+}
+#almm{
+	margin: 0px 0px 0px -155px;
+	color: mediumseagreen;
+
+}
